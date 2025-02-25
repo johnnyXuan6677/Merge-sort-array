@@ -15,7 +15,6 @@ class Solution {
                 nums1[i+1]=temp;
             }else{
                 check++;
-                System.out.println(check);
             }
             
         }
